@@ -14,7 +14,7 @@
 - [LINQ](linq_detailed.md)
 - [OOP (Object-Oriented Programming)](oop_detailed.md)
 - [SOLID Principles](solid_principles_detailed.md)
-- [Tổng hợp kiến thức](tong_hop_kien_thuc.md)
+- [Tổng hợp kiến thức](Tong_hop_kien_thuc.md)
 
 ---
 
