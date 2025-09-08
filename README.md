@@ -96,7 +96,7 @@ Chào mừng các anh chị, các bạn đến với "góc nhỏ" của mình! �
 
 #### 🤝 **Muốn "dirty hands" luôn?**
 1. 🍴 **Fork về nhà**: Lấy repo này về tài khoản của bạn
-2. 🌿 **Tạo nhánh mới**: `git checkout -b sua-loi-cua-thang-nay` (đặt tên vui vui cũng được 😆)
+2. 🌿 **Tạo nhánh mới**: `git checkout -b sua-loi-cua-nho-nay` (đặt tên vui vui cũng được 😆)
 3. ✏️ **Sửa chữa thoải mái**: Code, viết, vẽ diagram... làm gì cũng được!
 4. ✅ **Test thử xem sao**: Đảm bảo code chạy được, nội dung đúng đắn
 5. 📤 **Pull Request**: Giải thích xem bạn sửa gì, tại sao sửa. Mình sẽ review và merge ngay! 🚀
