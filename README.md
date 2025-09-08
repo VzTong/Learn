@@ -9,6 +9,15 @@
 >
 > **🇻🇳 Tiếng Việt**: Tài liệu này chỉ phục vụ mục đích học tập và cộng đồng. Tác giả không chịu trách nhiệm nếu sử dụng cho mục đích thương mại.
 
+## 🌏 **Language Notice / Thông báo về ngôn ngữ**
+> **🇻🇳 Chú ý nè các tình yêu**: Đa phần mình viết bằng tiếng Việt nhé! Có thêm phần English đôi chỗ nhưng Vietnamese là chính 😊
+>
+> **📁 Bonus tip**: Nếu mún có tài liệu full English, cứ tạo thêm thư mục `EN` và translate từ từ cũng được nha! Community welcome lắm! �
+>
+> **🇺🇸 Note for international friends**: Most content is written in Vietnamese! There are some English sections, but Vietnamese is the primary language 🇻🇳
+>
+> **📂 Pro tip**: Feel free to create an `EN` folder and translate content gradually! Community contributions are super welcome! 🌟
+
 
 ---
 
@@ -41,32 +50,34 @@ Chào mừng các anh chị, các bạn đến với "góc nhỏ" của mình! �
 
 *Mỗi món đều được "nấu" với tình yêu, dù có thể hơi mặn hoặc nhạt gì đó* 😂
 
+*✨ **Giờ đã sắp xếp theo từng mục rồi nha, khỏi loạn!** ✨*
+
 #### 🏗️ **Kiến trúc & Design Patterns**
-- [🏛️ Clean Architecture](clean_architecture_guide.md) - Dọn nhà code cho sạch sẽ!
-- [🔄 CQRS](cqrs_guide.md) - Command và Query ly thân (drama gì đây? 🤔)
-- [🎯 DDD](ddd_guide.md) - Thiết kế theo miền, không phải theo... cảm tính 😅
-- [🔧 Design Patterns](design_patterns.md) - Gang of Four và những người bạn pattern
+- [🏛️ Clean Architecture](Markdown/Architecture/clean_architecture.md) - Dọn nhà code cho sạch sẽ!
+- [🔄 CQRS](Markdown/Architecture/cqrs.md) - Command và Query ly thân (drama gì đây? 🤔)
+- [🎯 DDD](Markdown/Architecture/ddd.md) - Thiết kế theo miền, không phải theo... cảm tính 😅
+- [🔧 Design Patterns](Markdown/Architecture/design_patterns.md) - Gang of Four và những người bạn pattern
 
 #### 🖥️ **UI Patterns & Frameworks** *(UI mà không chỉ có UI)*
-- [📊 MVC, MVP, MVVM](mvc.md) - Cuộc chiến của những chữ cái! (có diagram đẹp đấy 😎)
-- [💾 Entity Framework](entity_framework_detailed.md) - ORM cho team .NET
-- [🔗 ORM Guide](orm_detailed_guide.md) - ORM vs Raw SQL: fight!
-- [📱 MVVM Pattern](mvvm_detailed_guide.md) - Data binding và những điều kỳ diệu
-- [🎭 MVP Pattern](mvp_detailed_guide.md) - Presenter đóng vai chính!
+- [📊 MVC, MVP, MVVM](Markdown/UI-Patterns/mvc.md) - Cuộc chiến của những chữ cái! (có diagram đẹp đấy 😎)
+- [💾 Entity Framework](Markdown/UI-Patterns/entity_framework_detailed.md) - ORM cho team .NET
+- [🔗 ORM Guide](Markdown/UI-Patterns/orm_detailed.md) - ORM vs Raw SQL: fight!
+- [📱 MVVM Pattern](Markdown/UI-Patterns/mvvm_detailed.md) - Data binding và những điều kỳ diệu
+- [🎭 MVP Pattern](Markdown/UI-Patterns/mvp_detailed.md) - Presenter đóng vai chính!
 
 #### 🔐 **Security & Authentication** *(đừng để bị hack nha)*
-- [🎫 JWT](jwt_detailed_guide.md) - Token thần thánh không cần session
+- [🎫 JWT](Markdown/Security/jwt_detailed.md) - Token thần thánh không cần session
 
 #### 🗄️ **Database & Data Access** *(nơi lưu trữ tất cả)*
-- [🐬 Database Comparison](database_comparison_guide.md) - Ai mạnh hơn ai? (spoiler: HeidiSQL chỉ là tool thôi! 😂)
-- [🔍 LINQ](linq_detailed.md) - Query trong C# như thơ
+- [🐬 Database Comparison](Markdown/Database/database_comparison.md) - Ai mạnh hơn ai? (spoiler: HeidiSQL chỉ là tool thôi! 😂)
+- [🔍 LINQ](Markdown/Database/linq_detailed.md) - Query trong C# như thơ
 
 #### 📚 **Programming Fundamentals** *(cơ bản mà quan trọng)*
-- [🏗️ OOP](oop_detailed.md) - Tư duy hướng đối tượng (không phải hướng crush đâu nha 😄)
-- [⚡ SOLID Principles](solid_principles_detailed.md) - 5 nguyên tắc vàng để code không "nát"
+- [🏗️ OOP](Markdown/Programming-Fundamentals/oop_detailed.md) - Tư duy hướng đối tượng (không phải hướng crush đâu nha 😄)
+- [⚡ SOLID Principles](Markdown/Programming-Fundamentals/solid_principles_detailed.md) - 5 nguyên tắc vàng để code không "nát"
 
-#### 📝 **Tổng hợp**
-- [📋 Kiến thức tổng hợp](tong_hop_kien_thuc.md) - Món tổng hợp "có thể chưa cập nhật kịp" 🤣
+#### 📝 **Tổng hợp & Others**
+- [📋 Kiến thức tổng hợp](Markdown/Others/tong_hop_kien_thuc.md) - Món tổng hợp "có thể chưa cập nhật kịp" 🤣
 
 ### ⚠️ **Lưu ý quan trọng**
 
@@ -129,32 +140,34 @@ Welcome to my software development knowledge repository! 😊
 
 *Each dish is cooked with love, though some might be a bit too salty or bland* 😂
 
+*✨ **Now organized by topics, no more chaos!** ✨*
+
 #### 🏗️ **Architecture & Design Patterns** *(getting fancy here)*
-- [🏛️ Clean Architecture](clean_architecture_guide.md) - Cleaning up your code house!
-- [🔄 CQRS](cqrs_guide.md) - Commands and Queries break up (what drama? 🤔)
-- [🎯 DDD](ddd_guide.md) - Domain-driven, not feeling-driven 😅
-- [🔧 Design Patterns](design_patterns.md) - Gang of Four and their pattern friends
+- [🏛️ Clean Architecture](Markdown/Architecture/clean_architecture.md) - Cleaning up your code house!
+- [🔄 CQRS](Markdown/Architecture/cqrs.md) - Commands and Queries break up (what drama? 🤔)
+- [🎯 DDD](Markdown/Architecture/ddd.md) - Domain-driven, not feeling-driven 😅
+- [🔧 Design Patterns](Markdown/Architecture/design_patterns.md) - Gang of Four and their pattern friends
 
 #### 🖥️ **UI Patterns & Frameworks** *(UI but not just UI)*
-- [📊 MVC, MVP, MVVM](mvc.md) - Battle of the acronyms! (with pretty diagrams 😎)
-- [💾 Entity Framework](entity_framework_detailed.md) - ORM for .NET teams
-- [🔗 ORM Guide](orm_detailed_guide.md) - ORM vs Raw SQL: fight!
-- [📱 MVVM Pattern](mvvm_detailed_guide.md) - Data binding and magical things
-- [🎭 MVP Pattern](mvp_detailed_guide.md) - Presenter takes the lead!
+- [📊 MVC, MVP, MVVM](Markdown/UI-Patterns/mvc.md) - Battle of the acronyms! (with pretty diagrams 😎)
+- [💾 Entity Framework](Markdown/UI-Patterns/entity_framework_detailed.md) - ORM for .NET teams
+- [🔗 ORM Guide](Markdown/UI-Patterns/orm_detailed.md) - ORM vs Raw SQL: fight!
+- [📱 MVVM Pattern](Markdown/UI-Patterns/mvvm_detailed.md) - Data binding and magical things
+- [🎭 MVP Pattern](Markdown/UI-Patterns/mvp_detailed.md) - Presenter takes the lead!
 
 #### 🔐 **Security & Authentication** *(don't get hacked!)*
-- [🎫 JWT](jwt_detailed_guide.md) - The holy token without sessions
+- [🎫 JWT](Markdown/Security/jwt_detailed.md) - The holy token without sessions
 
 #### 🗄️ **Database & Data Access** *(where everything lives)*
-- [🐬 Database Comparison](database_comparison_guide.md) - Who's stronger? (spoiler: HeidiSQL is just a tool! 😂)
-- [🔍 LINQ](linq_detailed.md) - Querying in C# like poetry
+- [🐬 Database Comparison](Markdown/Database/database_comparison.md) - Who's stronger? (spoiler: HeidiSQL is just a tool! 😂)
+- [🔍 LINQ](Markdown/Database/linq_detailed.md) - Querying in C# like poetry
 
 #### 📚 **Programming Fundamentals** *(basic but crucial)*
-- [🏗️ OOP](oop_detailed.md) - Object-oriented thinking (not crush-oriented 😄)
-- [⚡ SOLID Principles](solid_principles_detailed.md) - 5 golden rules to keep code from breaking
+- [🏗️ OOP](Markdown/Programming-Fundamentals/oop_detailed.md) - Object-oriented thinking (not crush-oriented 😄)
+- [⚡ SOLID Principles](Markdown/Programming-Fundamentals/solid_principles_detailed.md) - 5 golden rules to keep code from breaking
 
-#### 📝 **Miscellaneous**
-- [📋 Knowledge Summary](tong_hop_kien_thuc.md) - Mixed bag "might not be fully updated" 🤣
+#### 📝 **Miscellaneous & Others**
+- [📋 Knowledge Summary](Markdown/Others/tong_hop_kien_thuc.md) - Mixed bag "might not be fully updated" 🤣
 
 ### ⚠️ **Important Notes**
 
